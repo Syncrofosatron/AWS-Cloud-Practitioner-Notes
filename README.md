@@ -369,9 +369,7 @@ Free AWS tiers -
 
 **Amazon Lightsail** - A service which enables us to run virtual private servers. It is like Lambda but it is not serverless.
 
-**AWS Pricing Calculator** - https://calculator.aws/#/
-It calculates an estimate for the use cases of AWS services.
-
+**AWS Pricing Calculator** - It calculates an estimate for the use cases of AWS services (🔗: https://calculator.aws/#/)
 
 **===========================================================================================**
 
@@ -465,4 +463,4 @@ DynamoDB + S3 + SNS + Lambda - **Serverless services**.
 
 **Machine Image** - To spin up EC2 instances on the AWS cloud.
 
- Good Luck!) 👨‍💻
+ 👩‍💻 Good Luck!) 👨‍💻
