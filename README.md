@@ -1,4 +1,4 @@
-# AWS-Cloud-Practitioner-Notes
+# AWS Cloud Practitioner Notes (CLF-C01)
 ✨
 _Notes made while following the official course.
 Could be used to prepare or to refresh your concepts in a single place instead of gobbling through the videos again even though they are fun. :p_
