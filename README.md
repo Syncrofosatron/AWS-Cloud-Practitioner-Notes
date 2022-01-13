@@ -373,7 +373,7 @@ Free AWS tiers -
 It calculates an estimate for the use cases of AWS services.
 
 
-**=============================================================================================================================**
+**===========================================================================================**
 
 Below are notes I made after doing some practice tests and these are abstract notes, you'd understand better after studying basic concepts.
 **🔗**: **https://www.awsboy.com/aws-practice-exams/practitioner/**
@@ -381,54 +381,88 @@ Below are notes I made after doing some practice tests and these are abstract no
 
 **Lambda** - compute service serverless, run code w/o provisioning servers, compute service which makes easy for us to
 build quick response apps. No need of running dedicated server for the services to be responsive.
+
 **EC2 and Lightsail** - compute services.
+
 S3 bucket restrict access to individual objects - **ACL**.
+
 Edge locations series + CDN content - **Distribution**.
+
 We need to optimize appliation using **RDS**.
+
 **Bucket policies** - Control entire bucket contents.
 CloudFormation template - **YAML and JSON**.
 Building environments with - (Code - **CloudFormation**) & (GUI - **Management Console**).
+
 **Glacier key components** - Access Policy, Archive and Vault (Grouping archives).
+
 **Application Load Balancer** - Listeners, Targets and Target Groups.
+
 Dashboards -
 	**AWS Personal Health Dashboard** - Personalized performance and availability information.
 	**AWS Service Health Dashboard** - General performance and availability information.
 	**Trusted Advisor** - Cost, security, fault tolerance, performance.
 	**CloudWatch** - Alert based on metrics, like cost threshold.
+
 **VPC** - Networking and Delivery. Attach Internet Gateway for public subnet.
+
 **S3** - Good for flat files (photos, docs).
+
 **Object URL structure** - https > bucket name > dot > region endpoint > slash > object name.
+
 **Round Robin is used in** -
 	The Classic uses a Round-Robin strategy for TCP listeners only.
 	The ALB 1st selects a target based on the routing rule, then uses a Round-Robin strategy to select a node.
+
 **QuickSight** - Audit information, making reports with pictorial or chart related demonstration.
 No need to copy to another zone for multiple instances.
+
 **Lightsail** - PaaS, to host our stuff like apps.
 
 **CodeDeploy** - installing/updating applications on EC2.
+
 **CodeCommit** - share program codes securely.
 Backup and Restore > Pilot Light > Warm Standby > Multi Site => **Multi Site** is the best choice for fast data recovery.
+
 **OpsWork** - Sharing software comfiguration to other instances.
+
 **Read replicas** - Optimizing responsiveness of accessing file.
+
 **Rekognition** - Computer vision.
+
 **Right sizing** - Which EC2 appropriate for our workload.
+
 **Cloud9** - Share realtime development environment.
+
 **EBS snapshots** - Customer responsibility.
+
 **Quick Start** - Automated reference deployments for key workloads.
+
 **S3 intelligent tiering** - For frequent and infrequent access.
+
 **Systems Manager** - group AWS resources across different AWS Regions
 	by application and then collect for monitoring.
+
 **Resource tags** - Can be edited or removed at any time.
+
 **EFS (Elastic File System)** - For shared file access.
 
 
 DynamoDB + S3 + SNS + Lambda - **Serverless services**.
+
 **Snowball** - Transfer petabyte-scale data.
+
 **Beanstalk** - AWS cloud service helps in quick deployment of resources which can make
 	use of different programming languages such as .Net and Java.
+
 **Route 53** - TTL (Time To Live), DR is triggered.
+
 **Decoupling applications** - SQS.
+
 **S3** - Besst to store static content store, photos and videos.
+
 **WAF** comes with - Shield (DDoS protection: Distributed Denial of Service).
+
 **Machine Image** - To spin up EC2 instances on the AWS cloud.
 
+ Good Luck!) 👨‍💻
