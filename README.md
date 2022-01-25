@@ -463,6 +463,8 @@ DynamoDB + S3 + SNS + Lambda - **Serverless services**.
 
 **Machine Image** - To spin up EC2 instances on the AWS cloud.
 
+Be sure to read about AWS VPC and endpoints.
+
  👩‍💻 Good Luck!) 👨‍💻
 
 - Neeraj Mishra (nmcnemis@gmail.com).
